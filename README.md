@@ -1,2 +1,2 @@
 # phpcrud
-php crud native
+php crud use laravel
